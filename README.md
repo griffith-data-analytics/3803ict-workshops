@@ -1,4 +1,4 @@
-# 3803ict-workshops - This is a template repository of the course for student submissions
+# 3803ICT/3030ICT/7130ICT - This is a template repository for student submissions
 
 Please fill in your contact below.
 
